@@ -1,0 +1,8 @@
+# backup files
+*~
+
+# NGS/Bioinformatics
+*.bb
+*.2bit
+
+

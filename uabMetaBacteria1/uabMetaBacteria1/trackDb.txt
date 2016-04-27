@@ -1,0 +1,5 @@
+track uabMetaBacteria1_loci
+bigDataUrl uabMetaBacteria1.loci.bb
+shortLabel CDS
+longLabel NCBI CDS
+type bigBed 6

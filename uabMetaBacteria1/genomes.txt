@@ -1,0 +1,10 @@
+genome uabMetaBacteria1
+trackDb uabMetaBacteria1/trackDb.txt
+twoBitPath uabMetaBacteria1/uabMetaBacteria1.2bit
+groups uabMetaBacteria1/groups.txt
+description Bacterial metagenome 87 strains
+organism Bacteria
+defaultPos Bacteroides_vulgatus_PC510:1-10000
+orderKey 100
+scientificName Bacteria
+htmlPath description.html

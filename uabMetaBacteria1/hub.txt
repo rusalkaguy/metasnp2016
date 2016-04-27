@@ -1,0 +1,6 @@
+hub hub.txt
+shortLabel uabMetagenomes
+longLabel Track hub for 87 strain bacterial metagenome virtual genome
+genomesFile genomes.txt
+email curtish@uab.edu
+descriptionUrl description.html

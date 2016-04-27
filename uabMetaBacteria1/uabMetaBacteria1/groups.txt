@@ -1,0 +1,4 @@
+name genes
+label Genes and Gene Predictions
+priority 10
+defaultIsClosed 1

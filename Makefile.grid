@@ -1,0 +1,18 @@
+#----------------------------------------------------------------------
+# grid setup
+#----------------------------------------------------------------------
+ONE_WEEK	= 120
+
+ifdef NSLOTS
+	GRID_CORES	?= $(NSLOTS)
+else
+ifdef SLURM_CORES
+	GRID_CORES	?= $(SLURM_CORES)
+else
+	GRID_CORES	?= 1
+	GRID_RAM	?= 2
+endif
+endif
+
+jobs:
+	mkdir -p jobs
